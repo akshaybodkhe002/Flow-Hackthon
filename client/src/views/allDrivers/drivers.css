@@ -1,0 +1,25 @@
+.Drivers-list{
+    /* border: black solid 2px;
+    border-radius: 2%; */
+    font-size: large;
+    margin-top: 50px;
+}
+
+.Drivers-list-main th{
+    padding-inline: 10px;
+    text-align: left;
+}
+
+.Drivers-list-main td{
+    padding-inline: 10px;
+    text-align: left;
+    padding-block: 5px;
+}
+
+
+/* .Drivers-list-main td button{
+    background-color: blue;
+    color: white;
+    border:  solid 2px white;
+    border-radius: 5px;
+} */
